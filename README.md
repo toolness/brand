@@ -7,6 +7,8 @@ This is the home of 18F's evolving brand assets and style guide. It's a work in 
 - Color palette and preliminary text/background color guidance to conform with 508 standards.
 - 18F Nimbus font files
 - Keynote template and example presentation
+ - Including a compatible version for Keynote 6.5, for users with OS X Yosemite,  and  version for Keynote 6.6, for users with El Capitan
+- Google Slides template and instructions on how to install the custom theme
 - Desktop art
 
 ## Coming soon:
