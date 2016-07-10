@@ -1,0 +1,20 @@
+name: 18F Brand
+
+repo:
+- name: 18F Brand
+  description: Main repository for 18F Brand and Resources
+  url: https://github.com/18F/brand
+
+exclude:
+- README.md
+- LICENSE
+- web-design-standards/CONTRIBUTING.md
+- web-design-standards/Gemfile
+- web-design-standards/Gemfile.lock
+- web-design-standards/LICENSE.md
+- web-design-standards/README.md
+- web-design-standards/go
+- web-design-standards/pages
+
+sass:
+  style: nested
